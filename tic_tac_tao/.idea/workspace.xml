@@ -2,7 +2,136 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff864ea9-0301-4d66-aa7f-3d97272ced47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Zustandsautomat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoeZustand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aufgabetag555/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aufgabetag555/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aufgabetag555/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aufgabetag555/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aufgabetag555/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aufgabetag555/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aufgabetag555/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aufgabetag555/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aufgabetag555/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aufgabetag555/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aufgabetag555/aufgabetag555.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../aufgabetag555/aufgabetag555.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aufgabetag555/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aufgabetag555/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_rechteck_YT/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../for_rechteck_YT/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_rechteck_YT/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../for_rechteck_YT/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_rechteck_YT/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../for_rechteck_YT/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_rechteck_YT/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../for_rechteck_YT/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_rechteck_YT/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../for_rechteck_YT/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_rechteck_YT/for_rechteck_YT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../for_rechteck_YT/for_rechteck_YT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_rechteck_YT/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../for_rechteck_YT/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_rechteck_home/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../for_rechteck_home/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_rechteck_home/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../for_rechteck_home/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_rechteck_home/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../for_rechteck_home/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_rechteck_home/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../for_rechteck_home/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_rechteck_home/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../for_rechteck_home/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_rechteck_home/for_rechteck_home.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../for_rechteck_home/for_rechteck_home.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_rechteck_home/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../for_rechteck_home/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geometrie_zeicher_v1.0/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrie_zeicher_v1.0/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geometrie_zeicher_v1.0/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrie_zeicher_v1.0/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geometrie_zeicher_v1.0/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrie_zeicher_v1.0/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geometrie_zeicher_v1.0/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrie_zeicher_v1.0/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geometrie_zeicher_v1.0/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrie_zeicher_v1.0/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geometrie_zeicher_v1.0/geometrie_zeicher_v1.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrie_zeicher_v1.0/geometrie_zeicher_v1.0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geometrie_zeicher_v1.0/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrie_zeicher_v1.0/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerade_ungerade_zahl/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gerade_ungerade_zahl/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerade_ungerade_zahl/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gerade_ungerade_zahl/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerade_ungerade_zahl/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gerade_ungerade_zahl/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerade_ungerade_zahl/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gerade_ungerade_zahl/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerade_ungerade_zahl/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gerade_ungerade_zahl/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerade_ungerade_zahl/gerade_ungerade_zahl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../gerade_ungerade_zahl/gerade_ungerade_zahl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerade_ungerade_zahl/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gerade_ungerade_zahl/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerade_ungerade_zahl/src/dreieck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gerade_ungerade_zahl/src/dreieck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner-test/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scanner-test/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner-test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scanner-test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner-test/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scanner-test/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner-test/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scanner-test/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner-test/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scanner-test/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner-test/scanner-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../scanner-test/scanner-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner-test/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../scanner-test/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schleifen/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../schleifen/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schleifen/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../schleifen/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schleifen/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../schleifen/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schleifen/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../schleifen/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schleifen/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../schleifen/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schleifen/schleifen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../schleifen/schleifen.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schleifen/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../schleifen/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switch_case_1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../switch_case_1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switch_case_1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../switch_case_1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switch_case_1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../switch_case_1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switch_case_1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../switch_case_1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switch_case_1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../switch_case_1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switch_case_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../switch_case_1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switch_case_1/switch_case_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../switch_case_1/switch_case_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic_tac_tao/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic_tac_tao/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tic_tac_tao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tic_tac_tao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/untitled2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variablen/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../variablen/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variablen/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../variablen/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variablen/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../variablen/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variablen/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../variablen/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variablen/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../variablen/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variablen/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../variablen/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variablen/variablen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../variablen/variablen.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../verschachtelte_if/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../verschachtelte_if/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../verschachtelte_if/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../verschachtelte_if/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../verschachtelte_if/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../verschachtelte_if/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../verschachtelte_if/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../verschachtelte_if/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../verschachtelte_if/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../verschachtelte_if/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../verschachtelte_if/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../verschachtelte_if/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../verschachtelte_if/verschachtelte_if.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../verschachtelte_if/verschachtelte_if.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wr3/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wr3/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wr3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wr3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wr3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wr3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wr3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wr3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wr3/wr3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../wr3/wr3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner1/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner1/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner1/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner1/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner1/währungsrechner1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner1/währungsrechner1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner2/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner2/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner2/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner2/währungsrechner2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner2/währungsrechner2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner3/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner3/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner3/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner3/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../währungsrechner3/währungsrechner3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../währungsrechner3/währungsrechner3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../würfel/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../würfel/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../würfel/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../würfel/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../würfel/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../würfel/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../würfel/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../würfel/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../würfel/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../würfel/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../würfel/src/EigeneLoesung.java" beforeDir="false" afterPath="$PROJECT_DIR$/../würfel/src/EigeneLoesung.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../würfel/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../würfel/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../würfel/würfel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../würfel/würfel.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,19 +142,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="41" column="76" lean-forward="true" selection-start-line="41" selection-start-column="76" selection-end-line="41" selection-end-column="76" />
+            <state>
+              <caret column="11" selection-end-line="138" />
               <folding>
-                <element signature="e#2422#2423#0" expanded="true" />
+                <element signature="e#2532#2533#0" expanded="true" />
+                <element signature="e#2573#2574#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tictactoeZustand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2346">
+              <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
+              <folding>
+                <element signature="e#2532#2533#0" expanded="true" />
+                <element signature="e#2573#2574#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Zustandsautomat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -39,10 +198,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Zustandsautomat.java" />
+        <option value="$PROJECT_DIR$/src/tictactoeZustand.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -53,7 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -71,10 +231,11 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550232143697" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550488996777" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -89,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Zustandsautomat">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="tic_tac_tao" />
@@ -97,8 +258,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zustandsautomat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zustandsautomat" />
+      <module name="tic_tac_tao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zustandsautomat" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -117,10 +286,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15960665" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17313915" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -129,7 +298,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16366611" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16359447" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -137,7 +306,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.328341" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -149,12 +318,31 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Zustandsautomat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="41" column="76" lean-forward="true" selection-start-line="41" selection-start-column="76" selection-end-line="41" selection-end-column="76" />
+        <state>
+          <caret column="11" selection-end-line="138" />
           <folding>
-            <element signature="e#2422#2423#0" expanded="true" />
+            <element signature="e#2532#2533#0" expanded="true" />
+            <element signature="e#2573#2574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tictactoeZustand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2346">
+          <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
+          <folding>
+            <element signature="e#2532#2533#0" expanded="true" />
+            <element signature="e#2573#2574#0" expanded="true" />
           </folding>
         </state>
       </provider>

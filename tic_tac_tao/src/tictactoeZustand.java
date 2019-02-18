@@ -60,79 +60,79 @@ public class Main {
         }
     }
 
-        static void Spielsteinsetzen (int x, int y, int wert){
-            feld[x][y] = wert;
-        }
+    static void Spielsteinsetzen (int x, int y, int wert){
+        feld[x][y] = wert;
+    }
 
 
-        static void gebeSpielfeld() {
-            for (int y = 0; y < 3; y++) {
-                for (int x = 0; x < 3; x++) {
-                    System.out.print("[");
-                    switch (feld[x][y]) {
-                        case -1:
-                            System.out.print("O");
-                            break;
-                        case 1:
-                            System.out.print("X");
-                            break;
-                        default:
-                            System.out.print(" ");
-                            break;
-                    }
-                    System.out.print("]");
+    static void gebeSpielfeld() {
+        for (int y = 0; y < 3; y++) {
+            for (int x = 0; x < 3; x++) {
+                System.out.print("[");
+                switch (feld[x][y]) {
+                    case -1:
+                        System.out.print("O");
+                        break;
+                    case 1:
+                        System.out.print("X");
+                        break;
+                    default:
+                        System.out.print(" ");
+                        break;
                 }
-                System.out.println();
+                System.out.print("]");
             }
-        }
-
-        static void initFeld () {
-            for (int y = 0; y < 3; y++) {
-                for (int x = 0; x < 3; x++) {
-                    feld[x][y] = 0;
-                }
-            }
-        }
-
-        static void pruefeFeld () {
-            for (int y = 0; y < 3; y++) {
-                for (int x = 0; x < 3; x++) {
-                    if (feld[x][y] == 0) {
-                        // Freies Feld gefunden
-                        return;
-                    }
-                }
-            }
-
-            // Kein freies Feld gefunden
-            freiesFeld = false;
-
-        }
-
-        public static void main (String[]args){
-
-            initFeld();
-
-
-            while (freiesFeld && nichtGewonnen) {
-                System.out.println("Spieler " + ((aktSpieler == 1) ? "1" : "2") + " Sie sind am Zug, viel Glück :)");
-                System.out.println("");
-
-
-                int x = sc.nextInt();
-                int y = sc.nextInt();
-
-
-                Spielsteinsetzen(x, y, aktSpieler);
-
-                spielerWechseln();
-                pruefeFeld();
-                gebeSpielfeld();
-                gewinnPruefen();
-            }
-
+            System.out.println();
         }
     }
+
+    static void initFeld () {
+        for (int y = 0; y < 3; y++) {
+            for (int x = 0; x < 3; x++) {
+                feld[x][y] = 0;
+            }
+        }
+    }
+
+    static void pruefeFeld () {
+        for (int y = 0; y < 3; y++) {
+            for (int x = 0; x < 3; x++) {
+                if (feld[x][y] == 0) {
+                    // Freies Feld gefunden
+                    return;
+                }
+            }
+        }
+
+        // Kein freies Feld gefunden
+        freiesFeld = false;
+
+    }
+
+    public static void main (String[]args){
+
+        initFeld();
+
+
+        while (freiesFeld && nichtGewonnen) {
+            System.out.println("Spieler " + ((aktSpieler == 1) ? "1" : "2") + " Sie sind am Zug, viel Glück :)");
+            System.out.println("");
+
+
+            int x = sc.nextInt();
+            int y = sc.nextInt();
+
+
+            Spielsteinsetzen(x, y, aktSpieler);
+
+            spielerWechseln();
+            pruefeFeld();
+            gebeSpielfeld();
+            gewinnPruefen();
+        }
+
+    }
+}
 
 
 
